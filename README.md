@@ -1,6 +1,7 @@
 # Healthcare Data Analytics Portfolio
 
-Hi, I'm Shailaja — a Business Intelligence Analyst with experience in healthcare data validation, reporting, and analytics. This portfolio showcases healthcare-focused analytics projects using Power BI, SQL, Excel, and data visualization.
+Hi, I'm Shailaja. I am a Data Analyst with experience in healthcare data validation, reporting, and analytics.
+This portfolio specifically showcases healthcare-focused analytics projects using Power BI, SQL, Excel, and data visualization.
 
 ## Projects
 
