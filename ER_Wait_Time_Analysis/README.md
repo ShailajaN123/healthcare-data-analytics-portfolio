@@ -3,6 +3,8 @@
 ## Objective
 Analyze emergency room wait times to identify peak periods, delays, and operational patterns that may impact patient experience.
 
+## 📊 Dashboard Preview
+![ER Wait Times Dashboard](er-waittimes-dashboard.png)
 ## Tools Used
 Power BI, Excel/CSV
 
