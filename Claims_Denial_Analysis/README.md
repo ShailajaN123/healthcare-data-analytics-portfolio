@@ -2,6 +2,11 @@
 
 This dashboard highlights trends in medical claims denials across payers, procedures, and denial reasons. It was designed to support better denial management strategies.
 
+# Claims Denial Analysis
+
+## 📊 Dashboard Preview
+![Claims Dashboard](claims-denial-dashboard.png)
+
 **Tools Used:** Excel, SQL, Power BI  
 **Skills Demonstrated:** Data transformation, KPI reporting, SQL joins
 
